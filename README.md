@@ -10,7 +10,7 @@ This repository contains the materials used in the [Introduction to Deep Learnin
 | 4 | Convolutional Neural Networks | [notebook](CNN.ipynb) | [video](https://www.youtube.com) | [slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/CNNs.pdf) | 
 | 4 | Recurrent Neural Networks | [notebook](RNN.ipynb) | [video](https://www.youtube.com/watch?v=kh89gBfnVdY) | [slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/RNN.pdf) |
 | 5 | Introduction to Transformer | [notebook](transformer_intro_tutorial.ipynb) | [video](https://www.youtube.com) | [slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/transformer.pdf) |
-| 6 | Transformer for Machine Translation | [notebook](transformer_mt_tutorial.ipynb) | [video](https://www.youtube.com) | slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/transformer.pdf) |
+| 6 | Transformer for Machine Translation | [notebook](transformer_mt_tutorial.ipynb) | [video](https://www.youtube.com) | [slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/transformer.pdf) |
 
 ### Contributors
 * [Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/)
