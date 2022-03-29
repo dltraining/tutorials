@@ -12,5 +12,11 @@ This repository contains the materials used in the [Introduction to Deep Learnin
 | 5 | Introduction to Transformer | [notebook](transformer_intro_tutorial.ipynb) | [video](https://www.youtube.com) |
 | 6 | Transformer for Machine Translation | [notebook](transformer_mt_tutorial.ipynb) | [video](https://www.youtube.com) |
 
+### Contributors
+* [Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/)
+* [Peter Sullivan]()
+* [Chiyu Zhang](https://chiyuzhang94.github.io/)
+* [Ganesh Jawahar](https://ganeshjawahar.github.io/)
+
 ### License
 This repository is MIT-licensed.
