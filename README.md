@@ -1,5 +1,5 @@
 ## Deep Learning Workshop
-This repository contains the materials used in the [Introduction to Deep Learning workshop](https://www.eventbrite.ca/e/introduction-to-deep-learning-online-tickets-294097612877?aff=ebdsoporgprofile).
+This repository contains the materials used in the [Introduction to Deep Learning workshop](https://www.eventbrite.ca/e/introduction-to-deep-learning-online-tickets-294097612877?aff=ebdsoporgprofile) organized by [InterPARES Trust AI](https://www.eventbrite.ca/o/interpares-trust-ai-33862480637).
 
 ### Notebooks and Videos
 | No | Topic | Tutorial | Video |
